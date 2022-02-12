@@ -1,8 +1,8 @@
 # SpeechSplit2
-Official implementation of SpeechSplit2
+Official implementation of SpeechSplit2.
 
 ## Audio Demo
-The audio demo can be found [here](https://biggytruck.github.io/spsp2-demo/)
+The audio demo can be found [here](https://biggytruck.github.io/spsp2-demo/).
 
 ## Pretrained Models
 | | Small Bottleneck | Large Bottleneck |
