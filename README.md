@@ -1,5 +1,5 @@
 # SpeechSplit2
-Official implementation of SpeechSplit2.
+Official implementation of [SpeechSplit 2.0: Unsupervised speech disentanglement for voice conversion Without tuning autoencoder Bottlenecks](https://arxiv.org/pdf/2203.14156.pdf).
 
 ## Audio Demo
 The audio demo can be found [here](https://biggytruck.github.io/spsp2-demo/).
