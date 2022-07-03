@@ -1,0 +1,9 @@
+SoundFile
+tqdm==4.62.3
+pyyaml==5.3.1
+numpy==1.22.1
+wavenet_vocoder==0.1.1
+pysptk==0.1.18
+librosa==0.8.1
+pyworld==0.3.0
+torch==1.11.0
