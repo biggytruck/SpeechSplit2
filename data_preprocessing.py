@@ -55,7 +55,7 @@ def make_spect_f0(config):
         # smooth pitch to synthesize monotonic speech
         f0s = average_f0s(f0s, mode='global')
 
-        for idx, (wav, f0, sp, ap) in enumerate(zip(wavs, f0s, sps, aps)):
+        for idx, (filename, wav, f0, sp, ap) in enumerate(zip(file_list, wavs, f0s, sps, aps)):
 
             wav_mono = get_monotonic_wav(wav, f0, sp, ap, fs)
             spmel = get_spmel(wav)
